@@ -1,0 +1,7 @@
+把素材放进这个文件夹（Background/），文件名规则见上级目录 DEPLOY.md 第三节。
+
+· 背景图：任意文件名 + .webp/.png/.jpg/.jpeg/.avif/.gif
+· 侧栏立绘：必须叫 sidebar-figure.webp（透明底竖构图）
+· 开屏动画：必须叫 opening.mp4（可选 opening-poster.webp 作首帧）
+
+以 opening / signature- / sidebar- 开头的文件不会出现在背景图列表里。
